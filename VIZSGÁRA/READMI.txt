@@ -1,5 +1,8 @@
 ### Készítette**:
 *   **Kovács Kinga**
+*   **Szeles Viktor**
+*   **Kabai Tibor**
+
 *   **OKTÁV Szakképzési Iskola Szoftverfejlesztő és tesztelő** hallgatójaként, 2025 szeptemberében.
 
 ### Használathoz szükséges információk (Telepítés és Elindítás)
